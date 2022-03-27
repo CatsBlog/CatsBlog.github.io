@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://catsblog.github.io/2022/03/27/la-he-de-jue-duan/</loc>
+    
+    <lastmod>2022-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://catsblog.github.io/friends/index.html</loc>
     
     <lastmod>2022-03-27</lastmod>
@@ -64,24 +73,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://catsblog.github.io/2022/03/27/new/</loc>
-    
-    <lastmod>2022-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://catsblog.github.io/2022/03/27/hello-world/</loc>
-    
-    <lastmod>2022-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://catsblog.github.io/</loc>
@@ -92,12 +83,26 @@
 
   
   <url>
-    <loc>https://catsblog.github.io/tags/test/</loc>
+    <loc>https://catsblog.github.io/tags/%E5%90%AC%E9%81%93%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catsblog.github.io/tags/%E7%8E%8B%E6%9E%97%E7%89%A7%E5%B8%88/</loc>
     <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://catsblog.github.io/categories/2022%E4%B8%BB%E6%97%A5%E7%A4%BC%E6%8B%9C/</loc>
+    <lastmod>2022-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
