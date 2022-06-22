@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://catsblog.github.io/2022/05/27/post-qing-chen-gan-lu-ye-19-zun-gui-or-bei-jian-zai-hu-xin-xin-zhong-de-xuan-ze/</loc>
+    
+    <lastmod>2022-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://catsblog.github.io/2022/06/21/post-qing-chen-gan-lu-ye-44-cong-po-sui-zou-xiang-zheng-he-huo-chu-zhen-zheng-de-xin-yang-zhen-zheng-de-ren-sheng/</loc>
     
     <lastmod>2022-06-20</lastmod>
@@ -158,15 +167,6 @@
     <loc>https://catsblog.github.io/2022/05/28/post-qing-chen-gan-lu-ye-20-zai-mei-ge-shen-dao-bu-neng-zai-shen-de-ye-li/</loc>
     
     <lastmod>2022-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://catsblog.github.io/2022/05/27/post-qing-chen-gan-lu-ye-19-zun-gui-or-bei-jian-zai-hu-xin-xin-zhong-de-xuan-ze/</loc>
-    
-    <lastmod>2022-05-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -836,13 +836,6 @@
   
   <url>
     <loc>https://catsblog.github.io/tags/%E8%80%B6%E5%88%A9%E7%B1%B3%E4%B9%A6/</loc>
-    <lastmod>2022-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catsblog.github.io/tags/%E6%80%9D%E6%83%B3%E5%91%8A/</loc>
     <lastmod>2022-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
